@@ -1,0 +1,6 @@
+@HomeBid_HostAddress = http://localhost:5267
+
+GET {{HomeBid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
